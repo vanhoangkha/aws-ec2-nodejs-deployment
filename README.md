@@ -1,4 +1,4 @@
-# 🚀 Node.js Deployment on AWS EC2
+# Node.js Deployment on AWS EC2
 
 Step-by-step guide for deploying Node.js applications on Amazon EC2.
 
